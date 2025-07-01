@@ -86,7 +86,7 @@ Open your browser at `http://localhost:5173`.
 
 **Max Benedict Chavez**  
 De La Salle University  
-📧 [mbchavez27@dlsu.edu.ph](mailto:mbchavez27@dlsu.edu.ph)
+📧 [mbchavez27@dlsu.edu.ph](mailto:max_chavez@dlsu.edu.ph)
 
 ---
 
